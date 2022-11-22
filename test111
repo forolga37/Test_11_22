@@ -2,5 +2,4 @@ name="Olga"
 nam=111
 num2=222
 print(name)
-print(num)
-print(num2)
+
