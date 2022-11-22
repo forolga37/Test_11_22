@@ -1,2 +1,4 @@
 name="Olga"
+nam=111
 print(name)
+print(num
